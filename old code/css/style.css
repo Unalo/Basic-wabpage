@@ -1,0 +1,134 @@
+h1 {
+  color: blue;
+  display: inline-block;
+
+}
+body {
+  background-color: ;
+  }
+
+.container {
+  margin: auto;
+}
+
+.header {
+
+}
+
+.my-name {
+    position: relative;
+    left: -317px;
+    width: 15em;
+    display: inline-block;
+    text-align: left;
+    margin-top: 4em;
+    vertical-align: top;
+    margin-left: 30%;
+    margin-bottom: 40px;
+}
+
+.myCity1 {
+  border-radius: 15px 50px;
+  position: relative;
+  right: 400px;
+  display: inline-block;
+  margin-left: 70px;
+  margin-top: 20px;
+}
+
+.City img {
+    float: left;
+    padding: 15px;
+    margin-bottom: 200px;
+    position: relative;
+    left: 90px;
+    margin-right: 10px;
+}
+.City h2 {
+  position: relative;
+  left: 15px;
+}
+
+h2  {
+ color: blue;
+ text-align: center;
+ font-size: 2,5em;
+ font-weight: bold;
+ position: relative;
+ right: 40px;
+  }
+p {
+  position: relative;
+  left: 90px;
+  font-size: 18px;
+  font-family: sans-serif;
+  display: inline-block;
+  vertical-align: top;
+  width: 500px;
+  height: 300
+}
+.Language {
+       font-size: 2,5em;
+       font-family: sans-serif;
+       margin: 0 auto;
+     }
+{
+  position: relative;
+  right: 20px;
+}
+table, th {
+    border: 1px dotted black;
+    border-collapse: collapse;
+    padding: 3px;
+    text-align: center;
+    position: relative;
+    right: 10em;
+    padding-top: 30px:
+   }
+
+   td {
+     font-size: 18px;
+     text-align: center;
+     padding: 3px;
+     position: relative;
+     right: 10em;
+   }
+
+   th,td {
+     border-bottom: 1px solid #dddd;
+   }
+
+   th {
+     font-size: 120%;
+     color: green;
+   }
+
+  h3 {
+    color: blue;
+    margin-left: 5em;
+    margin-bottom: 0,5em;
+    font-weight: bold;
+    font-style: oblique;
+  }
+
+.historic img {
+    width: 250px;
+    height: 180px;
+    margin-left: 60px;
+    }
+#parl {
+  float: right;
+  padding: 15px;
+  position: relative;
+  top: -40px;
+  left: -65px;
+}
+#iziko {
+  position: relative;
+  left: 20em;
+}
+
+  li, ul {
+margin-left: 0,5em;
+font-family: sans-serif;
+  }
